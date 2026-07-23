@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "zmctp"]
 	path = zmctp
-	url = https://github.com/cran/zmctp
+	url = https://github.com/roladoja/zmctp
